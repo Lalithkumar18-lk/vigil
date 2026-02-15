@@ -6,6 +6,11 @@ import time
 import random
 from datetime import datetime
 
+git add .
+git commit -m "Added requirement"
+git push
+
+
 # -----------------------------
 # PAGE CONFIG
 # -----------------------------
